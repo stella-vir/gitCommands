@@ -3,3 +3,11 @@ body {
   font-family: monospace;
   line-height: 2;
 }
+h1 {
+    color: green;
+}
+
+.legend-container {
+    color: green;
+}
+
